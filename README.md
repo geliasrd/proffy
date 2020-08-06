@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./images/logopurple.svg">
+<img src="./public/images/logopurple.svg">
 </div>
 
 <h4 align="center">Sua plataforma de estudos online</h3>
