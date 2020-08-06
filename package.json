@@ -1,0 +1,27 @@
+{
+  "name": "nlw_2",
+  "version": "1.0.0",
+  "description": "<div align=\"center\"> <img src=\"./images/logopurple.svg\"> </div>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geliasrd/proffy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geliasrd/proffy/issues"
+  },
+  "homepage": "https://github.com/geliasrd/proffy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
